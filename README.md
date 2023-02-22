@@ -7,9 +7,12 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 </div>
 
-## Note - I have not run this code locally due to the GPU demands of running NN's. This code was run in Kaggle as they allocate 30hrs per week of TPU (Tensor Processing Unit) time. It is downloaded from Kaggle as per the end of the exercise.
+## Note
+I have not run this code locally due to the GPU demands of running NN's. This code was run in Kaggle as they allocate 30hrs per week of TPU (Tensor Processing Unit) time. It is downloaded from Kaggle as per the end of the exercise.
 
 This repo contains two of the Neural Networks that I have built as part of the Kaggle Deep Learning resources they provide.
+
+Please see details below for how to run these programmes.
 
 # What are Neural Networks?
 
@@ -32,6 +35,16 @@ There are many other variables within the model that you are able to tweak to al
 The first model is for Binary classification designed to predict whether a hotel booking will be cancelled.
 
 The second file on Dropout and Batch Normalization layers contains two models. One predicting how popular a track on Spotify will be. The second predicting the compresive strength of concrete.
+
+# To run this repo
+
+Given the compute needs of these programmes it is recommended to run them in an environment where you can utilise external GPU's/TPU's. 
+
+To run these programmes efficiently I recommend you clone the repo to your local system and upload the required code to a Kaggle notebook along with the required csv data file.
+
+Once the code has been uploaded to the notebook you can select the three dots that represent the menu > Accelerator > TPU v3-8. At the time of writing you get allocated 30 hours of free TPU time per week. This reduces the time it takes to train the model.
+
+![Screenshot 2023-02-22 at 16 41 37](https://user-images.githubusercontent.com/42139484/220696463-4bab19e7-5402-4634-8e0b-cb3a54ee5d16.png)
 
 # Next Steps
 
