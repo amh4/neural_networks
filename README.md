@@ -1,5 +1,12 @@
 # neural_networks
 
+## The Tech
+
+<div align="center">
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" /></code>
+	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
+</div>
+
 Note - I have not run this code locally due to the GPU demands of running NN's. This code was run in Kaggle as they allocate 30hrs per week of TPU (Tensor Processing Unit) time. It is downloaded from Kaggle as per the end of the exercise.
 
 This repo contains two of the Neural Networks that I have built as part of the Kaggle Deep Learning resources they provide.
