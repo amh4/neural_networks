@@ -7,7 +7,7 @@
 	<code><img height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 </div>
 
-Note - I have not run this code locally due to the GPU demands of running NN's. This code was run in Kaggle as they allocate 30hrs per week of TPU (Tensor Processing Unit) time. It is downloaded from Kaggle as per the end of the exercise.
+## Note - I have not run this code locally due to the GPU demands of running NN's. This code was run in Kaggle as they allocate 30hrs per week of TPU (Tensor Processing Unit) time. It is downloaded from Kaggle as per the end of the exercise.
 
 This repo contains two of the Neural Networks that I have built as part of the Kaggle Deep Learning resources they provide.
 
